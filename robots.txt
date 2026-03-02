@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://36cents.com/sitemap.xml
